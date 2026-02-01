@@ -74,3 +74,7 @@ isic-sayisal-goruntu-isleme/
 │── results/          # Çıktı maskeler ve öznitelik tabloları
 │── report/           # Proje raporu (PDF)
 │── README.md
+
+Arzu Koçhan
+Bilgisayar Mühendisliği Yüksek Lisans Öğrencisi
+Sayısal Görüntü İşleme Projesi
